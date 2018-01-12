@@ -18,7 +18,7 @@ A simple game where the machine have 10 chance to guess number that a human(play
 There are 4 scene in the game, **Start**, **Game**, **Lose**, **Win**.
 
 The scene diagram is given below.
-![]('img/sceneDiagram.png')
+![](img/sceneDiagram.png?raw=true)
 
 ***
 
@@ -26,8 +26,8 @@ The scene diagram is given below.
 
 #### Machine Wins:
 
-![]('img/MachineWin.gif')
+![](img/MachineWin.gif?raw=true)
 
 #### Machine Lose:
 
-![]('img/MachineLoss.gif')
+![](img/MachineLoss.gif?raw=true)
